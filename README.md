@@ -58,6 +58,9 @@ Microsoft Sentinel • Splunk • Suricata • KQL • Syslog • Incident Inves
 Systems & Networking  
 Kali Linux • Linux • VirtualBox • TCP/IP • SSH
 
+Networking & IT Fundamentals  
+TCP/IP • IPv4 • IP Addressing • Subnet Masks • DNS • DHCP • Default Gateways • LAN/WAN • Routers & Switches • Ping & Connectivity Testing • Windows • Linux • Servers • Domains • Microsoft 365 • Network Printers • Basic IT Troubleshooting
+
 Development  
 HTML • CSS • JavaScript • Git • GitHub
 
