@@ -29,6 +29,8 @@ Built and worked through a Microsoft Sentinel lab covering:
 
 [View Microsoft Sentinel SOC Lab](https://github.com/alinaama105-coder/microsoft-sentinel-sc200-lab)
 
+Progress still ongoing.
+
 ---
 
 Kali Linux Security Monitoring Lab
@@ -48,6 +50,8 @@ The lab allowed me to generate activity, detect it with Suricata, send the event
 
 [View Kali Security Lab](https://github.com/alinaama105-coder/kali-security-lab)
 
+Progress still ongoing.
+
 ---
 
 Technical Skills
@@ -66,6 +70,8 @@ HTML • CSS • JavaScript • Git • GitHub
 
 AI  
 Claude • Claude Code • AI tools • AI-assisted development • Automation
+
+Progress still ongoing.
 
 ---
 
@@ -87,6 +93,8 @@ Additional Training
 - Claude Cowork 101
 - Microsoft Introduction to AI Concepts
 
+Progress still ongoing.
+
 ---
 
 Background
@@ -94,6 +102,8 @@ Background
 I also bring around eight years of professional security experience, where monitoring, incident reporting, escalation and following security procedures were part of my work.
 
 I am now building on that experience as I move into cybersecurity.
+
+Progress still ongoing.
 
 ---
 
@@ -105,6 +115,8 @@ Responsive website built with HTML, CSS and JavaScript.
 
 [View Kellys Saloon](https://github.com/alinaama105-coder/kellys-saloon)
 
+Progress still ongoing.
+
 ---
 
 Current Focus
@@ -112,3 +124,5 @@ Current Focus
 Microsoft Sentinel • KQL • SOC Operations • Incident Response • Threat Detection • Cloud Security • Automation • AI
 
 I am looking for my first opportunity in cybersecurity where I can continue learning while putting my practical lab experience and security background to use.
+
+Progress still ongoing.
